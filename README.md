@@ -6,7 +6,7 @@ Disclaimer: Frontend may not have uploaded correctly.
 A Blog Styled Website I created.
 
 
-## Functionality
+## Functionality:
   
 Upload Posts (if you know password);
 
