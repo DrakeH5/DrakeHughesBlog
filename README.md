@@ -3,7 +3,10 @@ Blog Styled Website
 
 Disclaimer: Frontend may not have uploaded correctly.
 
-A Blog Styled Website I created. 
+A Blog Styled Website I created.
+
+
+## Functionality
   
 Upload Posts (if you know password);
 
